@@ -65,6 +65,7 @@ Contributors
 ------------
 
 - ForgeFlow <https://www.forgeflow.com>
+- Kencove <https://www.kencove.com/>
 
 Maintainers
 -----------
