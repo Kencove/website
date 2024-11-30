@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="no_modal_search_header.header_search_box" inherit_id="website.header_search_box" name="Custom Header Search Bar" active="True">
+        <xpath expr="//li" position="replace">
+            <li t-attf-class="#{_item_class}">
+                <t t-call="website.header_search_box_input"/>
+            </li>
+        </xpath>
+    </template>
+</odoo>
